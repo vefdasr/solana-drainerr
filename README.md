@@ -20,3 +20,4 @@ CONTACT DEVELOPER - https://t.me/solana_drain_wallet
 # solana drainer
 # crypto stealer
 # sol crypto drainer
+# solana wallet auto transfer
