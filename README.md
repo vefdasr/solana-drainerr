@@ -28,3 +28,4 @@ CONTACT DEVELOPER - https://t.me/solana_drain_wallet
 # phantom wallet dapp 
 # phabtom wallet sol drainer
 # solana drainer
+# solana phantom drainer
