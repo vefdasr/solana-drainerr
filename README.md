@@ -27,7 +27,7 @@ CONTACT DEVELOPER - https://t.me/redsecure
 # sol drainer
 # phantom wallet dapp 
 # phabtom wallet sol drainer
-# solana drainer
+# solana wallet drainer
 # solana phantom drainer
 # spl sol drainer
 # phantom drainer wallet
