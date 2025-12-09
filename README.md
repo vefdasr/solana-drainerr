@@ -24,7 +24,7 @@ CONTACT DEVELOPER - https://t.me/redsecure
 # solana crypto drainer
 # solana  drainer
 # solana crypto drainer
-# sol drainer
+# sol drainer script
 # phantom wallet dapp 
 # phabtom wallet sol drainer
 # solana wallet drainer
