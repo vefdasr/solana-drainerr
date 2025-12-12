@@ -30,11 +30,4 @@ CONTACT DEVELOPER - https://t.me/redsecure
 # solana wallet drainer
 # solana phantom drainer
 # spl sol drainer
-# phantom drainer wallet
-# solana wallet drainer
-# solana drainer
-# phantom drainer
-# solana wallet drainer
-# solana crypto drainer
-# phantom drainer
-# solana crypto drainer
+
